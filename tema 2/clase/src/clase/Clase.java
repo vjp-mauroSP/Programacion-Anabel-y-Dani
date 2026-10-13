@@ -16,11 +16,11 @@ public class Clase {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Scanner entrada = new Scanner (System.in);
-        System.out.println("¿Cual es tu edad?: ");
-        int edad2 =entrada.nextInt();
-        
-        System.out.println("Tu edad es: " + edad2);
+        Scanner teclado;
+        int num1, num2, num3;
+                
+                num1= num2 + num3;
+                System.out.println("el numero es igual" + num2 + num3 );
     }
     
 }

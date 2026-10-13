@@ -14,7 +14,14 @@ public class OtroPaBorrar {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int num1 = 3;
+        //IF
+        
+        System.out.println("IF");
+        if (num1 % 2 ==0){
+        System.out.println("el numero es par.");
+        
+    }
     }
     
 }
